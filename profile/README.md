@@ -11,6 +11,8 @@ OpenFitnessPal is a free, open-source, cross-platform fitness tracker that aims 
 
 ## Repositories
 
-[OpenFitnessPal](OpenFitnessPal) - the main fitness-tracking application
-[lib](lib) - the library used to interface with the search engine
-[search](search) - the search engine used to access MyFitnessPal's extensive food & nutrition database
+[OpenFitnessPal](https://github.com/OpenFitnessPal/OpenFitnessPal) - the main fitness-tracking application
+
+[lib](https://github.com/OpenFitnessPal/lib) - the library used to interface with the search engine
+
+[search](https://github.com/OpenFitnessPal/search) - the search engine used to access MyFitnessPal's extensive food & nutrition database
